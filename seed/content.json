@@ -1,0 +1,1876 @@
+{
+  "settings": {
+    "siteName": {
+      "de": "Karmen Kosmetik Akademie",
+      "ar": "أكاديمية كارمن كوزماتيك"
+    },
+    "tagline": {
+      "de": "Kosmetik, Hautpflege & professionelle Schulungen in Ludwigsburg",
+      "ar": "التجميل والعناية بالبشرة والتدريب المهني في لودفيغسبورغ"
+    },
+    "contact": {
+      "ownerName": "Kahraman Alshwayyat",
+      "address": {
+        "street": "Schillerstraße 16",
+        "zip": "71638",
+        "city": "Ludwigsburg",
+        "country": {
+          "de": "Deutschland",
+          "ar": "ألمانيا"
+        }
+      },
+      "email": "Kara.A85@web.de",
+      "phone": "+4917623814384",
+      "whatsapp": "+4917623814384"
+    },
+    "social": {
+      "instagram": "",
+      "tiktok": "",
+      "facebook": "",
+      "whatsapp": "https://wa.me/4917623814384"
+    },
+    "openingHours": [
+      {
+        "day": "monday",
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      {
+        "day": "tuesday",
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      {
+        "day": "wednesday",
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      {
+        "day": "thursday",
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      {
+        "day": "friday",
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      {
+        "day": "saturday",
+        "open": "10:00",
+        "close": "16:00",
+        "closed": false
+      },
+      {
+        "day": "sunday",
+        "open": "",
+        "close": "",
+        "closed": true
+      }
+    ],
+    "foundedYear": 2023
+  },
+  "homepage": {
+    "heroIntro": {
+      "de": "Wir bieten professionelle Schulungen und moderne kosmetische Behandlungen an, die theoretisches Wissen mit praktischer Anwendung verbinden, um unsere Teilnehmerinnen optimal auf den Einstieg in den Arbeitsmarkt vorzubereiten – mit Selbstvertrauen und Professionalität.",
+      "ar": "نقدم دورات احترافية وخدمات تجميل حديثة تجمع بين الجانب النظري والتطبيق العملي، بهدف تأهيل المتدربات لدخول سوق العمل بثقة واحتراف."
+    },
+    "heroPoints": [
+      {
+        "de": "Wir bieten zahlreiche Schulungen in arabischer Sprache an, um arabischsprachigen Teilnehmerinnen das Verständnis der theoretischen und praktischen Inhalte zu erleichtern.",
+        "ar": "نقدم العديد من الدورات باللغة العربية لمساعدة المتدربات العربيات على فهم المحتوى العلمي والعملي بسهولة."
+      },
+      {
+        "de": "Unser Fokus liegt auf Qualität, Hygiene, Arbeitssicherheit und praxisorientiertem Training nach den neuesten Standards.",
+        "ar": "نركز على الجودة والنظافة والسلامة المهنية والتدريب العملي وفق أحدث المعايير."
+      },
+      {
+        "de": "Durch kleine Lerngruppen und direkte Betreuung gewährleisten wir jeder Teilnehmerin eine optimale und individuelle Ausbildung.",
+        "ar": "نوفر مجموعات تدريب صغيرة وإشرافاً مباشراً لضمان أفضل تجربة تعليمية لكل متدربة."
+      }
+    ]
+  },
+  "treatments": [
+    {
+      "slug": "microneedling",
+      "order": 1,
+      "name": {
+        "de": "Microneedling",
+        "ar": "الميكرونيدلينغ"
+      },
+      "excerpt": {
+        "de": "Kosmetische Behandlung zur Anregung der natürlichen Hauterneuerung.",
+        "ar": "إجراء تجميلي يهدف إلى تحفيز تجدد البشرة بشكل طبيعي."
+      },
+      "description": {
+        "de": "Microneedling ist eine kosmetische Behandlung zur Anregung der natürlichen Hauterneuerung. Durch feine Mikrokanäle kann das Hautbild verfeinert und die Hautstruktur verbessert werden.",
+        "ar": "الميكرونيدلينغ هو إجراء تجميلي يهدف إلى تحفيز تجدد البشرة بشكل طبيعي. من خلال إحداث قنوات دقيقة جداً في الجلد، يمكن تحسين ملمس البشرة والمساعدة في الحصول على مظهر أكثر نعومة وتجانساً."
+      },
+      "benefits": [
+        {
+          "de": "Verfeinerung des Hautbildes",
+          "ar": "تحسين ملمس البشرة"
+        },
+        {
+          "de": "Unterstützung der Kollagenbildung",
+          "ar": "تحفيز إنتاج الكولاجين"
+        },
+        {
+          "de": "Verbesserung der Hautstruktur",
+          "ar": "تحسين بنية الجلد"
+        },
+        {
+          "de": "Reduzierung von Poren und Hautunregelmäßigkeiten",
+          "ar": "تقليل المسام وعدم انتظام البشرة"
+        },
+        {
+          "de": "Frischer und ebenmäßiger Teint",
+          "ar": "بشرة أكثر نضارة وتجانساً"
+        }
+      ],
+      "image": "/uploads/media/treatments/microneedling.png"
+    },
+    {
+      "slug": "permanent-make-up",
+      "order": 2,
+      "name": {
+        "de": "Permanent Make-up",
+        "ar": "المكياج الدائم"
+      },
+      "excerpt": {
+        "de": "Kosmetische Pigmentierung zur Betonung von Augenbrauen, Lippen oder Lidern.",
+        "ar": "تقنية تجميلية لتحديد وإبراز الحواجب أو الشفاه أو خط العين."
+      },
+      "description": {
+        "de": "Permanent Make-up ist eine kosmetische Pigmentierung zur Betonung von Augenbrauen, Lippen oder Lidern. Die Behandlung sorgt für ein dauerhaft gepflegtes und harmonisches Erscheinungsbild.",
+        "ar": "المكياج الدائم هو تقنية تجميلية لتحديد وإبراز الحواجب أو الشفاه أو خط العين. تساعد المعالجة على الحصول على مظهر مرتب ومتناسق لفترة طويلة."
+      },
+      "benefits": [
+        {
+          "de": "Definierte Konturen",
+          "ar": "تحديد الملامح بشكل واضح"
+        },
+        {
+          "de": "Natürliches Erscheinungsbild",
+          "ar": "مظهر طبيعي"
+        },
+        {
+          "de": "Zeitersparnis im Alltag",
+          "ar": "توفير الوقت في الحياة اليومية"
+        },
+        {
+          "de": "Lang anhaltendes Ergebnis",
+          "ar": "نتائج طويلة الأمد"
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "de": "Was ist Permanent Make-up?",
+            "ar": "ما هو المكياج الدائم؟"
+          },
+          "body": {
+            "de": "Permanent Make-up ist die Bezeichnung für spezielle kosmetische Pigmentierungen im Gesicht, durch die dauerhaft haltbare Augenbrauen, Lidstriche oder Lippenkonturen entstehen. Beim Pigmentieren werden Farben mit speziellen Nadeln in die obersten Hautschichten implantiert.\n\nMit Permanent Make-up sehen Sie immer gepflegt aus und sparen Zeit – im Beruf, beim Sport oder in der Freizeit. Keine verlaufenen Lidstriche, keine Lippenstiftspuren.",
+            "ar": "المكياج الدائم هو تقنية تجميلية تُزرع فيها أصباغ دقيقة في الطبقات السطحية من البشرة لتحديد الحواجب أو خط العين أو الشفاه بشكل يدوم لفترة طويلة.\n\nيساعدكِ على مظهر مرتب دائماً وتوفير الوقت في الحياة اليومية — دون قلق من ذوبان الكحل أو آثار أحمر الشفاه."
+          },
+          "images": [
+            {
+              "src": "/uploads/media/treatments/permanent-make-up.png",
+              "alt": {
+                "de": "Permanent Make-up – natürliche Augenbrauen",
+                "ar": "المكياج الدائم – حواجب طبيعية"
+              }
+            }
+          ]
+        },
+        {
+          "heading": {
+            "de": "Wie funktioniert die Methode?",
+            "ar": "كيف تتم المعالجة؟"
+          },
+          "body": {
+            "de": "Ohne Maschine: Die Farbpigmente werden nicht eingeschlagen, sondern mittels Oberflächenbearbeitung in die Haut implantiert. Die Methode wird ausschließlich mit der Hand betrieben – mit einem speziellen Nadelsystem und hochwertigen Farben, die Hautstress und Irritationen minimieren.",
+            "ar": "بدون آلة: تُزرع الأصباغ في البشرة بطريقة سطحية دقيقة باستخدام تقنية يدوية متخصصة وإبر مصممة لتقليل تهيّج البشرة."
+          },
+          "images": [
+            {
+              "src": "/uploads/media/treatments/permanent-make-up.png",
+              "alt": {
+                "de": "Handmethode Permanent Make-up",
+                "ar": "تقنية المكياج الدائم اليدوية"
+              },
+              "caption": {
+                "de": "Präzise Pigmentierung mit feinen Nadeln",
+                "ar": "تقنية دقيقة بإبر رفيعة"
+              }
+            }
+          ]
+        },
+        {
+          "heading": {
+            "de": "Möglichkeiten mit der Technik",
+            "ar": "ما الذي يمكن تحقيقه؟"
+          },
+          "body": {
+            "de": "**FORMSCHÖNE AUGENBRAUEN**\n• Haarsträhnen in den Augenbrauen sehr natürlich gestalten\n• Augenbrauen leicht auffüllen oder stark gestalten\n• Fehlende Augenbrauen ergänzen oder neu gestalten\n\n**AUSDRUCKSSTARKE AUGEN!**\n• Augen optisch vergrößern\n• Feine obere und untere Eyeliner\n• Wimpernkranz-Verdichtung\n• Eyeliner-Schattierung\n\n**SCHÖNE LIPPEN**\n• Saubere Lippenkonturlinie\n• Lippen ganz ausfüllen\n• Lippen vergrößern oder verkleinern\n• Ungleichheiten optisch ausgleichen",
+            "ar": "**حواجب متناسقة**\n• رسم شعيرات طبيعية\n• تعبئة خفيفة أو تصميم واضح\n• استكمال الحواجب الناقصة\n\n**عيون معبّرة**\n• تكبير العين بصرياً\n• خط علوي وسفلي\n• كثافة خط الرموش\n\n**شفاه جميلة**\n• تحديد محيط الشفاه\n• ملء كامل للشفاه\n• موازنة الشكل"
+          }
+        },
+        {
+          "heading": {
+            "de": "Wie lange hält ein Permanent Make-up?",
+            "ar": "كم يدوم المكياج الدائم؟"
+          },
+          "body": {
+            "de": "Die Haltbarkeit ist von Mensch zu Mensch unterschiedlich (ca. 4–5 Jahre). Ein Permanent Make-up kann jederzeit aufgefrischt werden – die Auffrischung ist preisgünstiger als eine Neuarbeit.",
+            "ar": "تختلف مدة البقاء من شخص لآخر (حوالي 4–5 سنوات). يمكن تجديد النتيجة في أي وقت وبتكلفة أقل من العمل من جديد."
+          },
+          "images": [
+            {
+              "src": "/uploads/media/treatments/permanent-make-up.png",
+              "alt": {
+                "de": "Lang anhaltendes Ergebnis",
+                "ar": "نتيجة طويلة الأمد"
+              }
+            }
+          ]
+        },
+        {
+          "heading": {
+            "de": "Welche Farben werden verarbeitet?",
+            "ar": "ما الأصباغ المستخدمة؟"
+          },
+          "body": {
+            "de": "• 100 % biokompatible Farben nach heutigem Stand der Wissenschaft\n• Erfüllen die Reinheitsanforderungen der Europaratsresolution\n• Keimtötend ohne Konservierungsmittel\n• Unterstützt schnelle Abheilung und ist entzündungshemmend\n• Hochreine, mikronisierte Pigmente ohne gefährliche Inhaltsstoffe",
+            "ar": "• أصباغ متوافقة حيوياً وفق أحدث المعايير\n• تلبي متطلبات النقاء الأوروبية\n• تدعم التئام البشرة وتقلل الالتهاب\n• أصباغ نقية وم micronized بدون مواد ضارة"
+          }
+        },
+        {
+          "heading": {
+            "de": "Tut es weh?",
+            "ar": "هل تسبب المعالجة ألماً؟"
+          },
+          "body": {
+            "de": "Die häufigsten Rückmeldungen unserer Kundinnen:\n• Es war nicht so schlimm.\n• Zwicken tut mehr weh.\n• Ich komme gerne wieder für weitere Behandlungen.",
+            "ar": "أكثر ما نسمعه من العميلات:\n• لم يكن الأمر صعباً كما توقعت.\n• ألم النتف أشد.\n• سأعود لمعالجات أخرى."
+          }
+        }
+      ],
+      "gallery": [
+        {
+          "src": "/uploads/media/treatments/permanent-make-up.png",
+          "alt": {
+            "de": "Permanent Make-up – natürliche Augenbrauen",
+            "ar": "المكياج الدائم – حواجب طبيعية"
+          }
+        },
+        {
+          "src": "/uploads/media/treatments/permanent-make-up.png",
+          "alt": {
+            "de": "Handmethode Permanent Make-up",
+            "ar": "تقنية المكياج الدائم اليدوية"
+          },
+          "caption": {
+            "de": "Präzise Pigmentierung mit feinen Nadeln",
+            "ar": "تقنية دقيقة بإبر رفيعة"
+          }
+        },
+        {
+          "src": "/uploads/media/treatments/permanent-make-up.png",
+          "alt": {
+            "de": "Lang anhaltendes Ergebnis",
+            "ar": "نتيجة طويلة الأمد"
+          }
+        }
+      ],
+      "image": "/uploads/media/treatments/permanent-make-up.png"
+    },
+    {
+      "slug": "microblading",
+      "order": 3,
+      "name": {
+        "de": "Microblading",
+        "ar": "الميكروبليدينغ"
+      },
+      "excerpt": {
+        "de": "Präzise Methode zur optischen Verdichtung und Formgebung der Augenbrauen.",
+        "ar": "تقنية دقيقة لتحديد وتكثيف الحواجب برسم شعيرات تحاكي الشعر الطبيعي."
+      },
+      "description": {
+        "de": "Microblading ist eine präzise Methode zur optischen Verdichtung und Formgebung der Augenbrauen. Feine Härchen werden pigmentiert, um ein natürliches Ergebnis zu erzielen.",
+        "ar": "الميكروبليدينغ هو تقنية دقيقة لتحديد وتكثيف الحواجب من خلال رسم شعيرات دقيقة تحاكي شكل الشعر الطبيعي."
+      },
+      "benefits": [
+        {
+          "de": "Natürlich wirkende Augenbrauen",
+          "ar": "حواجب طبيعية المظهر"
+        },
+        {
+          "de": "Individuelle Formanpassung",
+          "ar": "تصميم يناسب ملامح الوجه"
+        },
+        {
+          "de": "Ausgleich von Lücken",
+          "ar": "ملء الفراغات في الحاجب"
+        },
+        {
+          "de": "Gepflegtes Erscheinungsbild",
+          "ar": "مظهر مرتب وأنيق"
+        }
+      ],
+      "image": "/uploads/media/treatments/microblading.png"
+    },
+    {
+      "slug": "lippenblush",
+      "order": 4,
+      "name": {
+        "de": "Lippenblush",
+        "ar": "توريد الشفاه"
+      },
+      "excerpt": {
+        "de": "Sanfte Pigmentierung zur Betonung der natürlichen Lippenfarbe und Lippenkontur.",
+        "ar": "إجراء تجميلي يعزز لون الشفاه الطبيعي ويحدد حدودها بشكل متناسق."
+      },
+      "description": {
+        "de": "Lippenblush ist eine sanfte Pigmentierung zur Betonung der natürlichen Lippenfarbe und Lippenkontur. Die Behandlung verleiht den Lippen ein frisches und gepflegtes Aussehen.",
+        "ar": "توريد الشفاه هو إجراء تجميلي يهدف إلى تعزيز لون الشفاه الطبيعي وتحديد حدودها بشكل متناسق."
+      },
+      "benefits": [
+        {
+          "de": "Harmonische Lippenfarbe",
+          "ar": "تحسين لون الشفاه"
+        },
+        {
+          "de": "Definierte Lippenkonturen",
+          "ar": "تحديد الكونتور بشكل أنيق"
+        },
+        {
+          "de": "Frisches Erscheinungsbild",
+          "ar": "مظهر صحي ومنتعش"
+        },
+        {
+          "de": "Natürliches Ergebnis",
+          "ar": "نتائج طبيعية"
+        }
+      ],
+      "image": "/uploads/media/treatments/lippenblush.png"
+    },
+    {
+      "slug": "hydrafacial",
+      "order": 5,
+      "name": {
+        "de": "HydraFacial",
+        "ar": "الهيدرافيشل"
+      },
+      "excerpt": {
+        "de": "Moderne Gesichtsbehandlung: Tiefenreinigung, Exfoliation und Hydration in einer Sitzung.",
+        "ar": "علاج متطور يجمع التنظيف العميق والتقشير والترطيب في جلسة واحدة."
+      },
+      "description": {
+        "de": "HydraFacial ist eine moderne Gesichtsbehandlung zur Tiefenreinigung, Exfoliation und Hydration der Haut. Die Haut wird gereinigt und intensiv mit Feuchtigkeit versorgt.",
+        "ar": "الهيدرافيشل هو علاج متطور للبشرة يجمع بين التنظيف العميق والتقشير والترطيب في جلسة واحدة لتحسين مظهر البشرة ونضارتها."
+      },
+      "benefits": [
+        {
+          "de": "Tiefenreinigung der Haut",
+          "ar": "تنظيف عميق للبشرة"
+        },
+        {
+          "de": "Intensive Feuchtigkeitsversorgung",
+          "ar": "ترطيب مكثف"
+        },
+        {
+          "de": "Frisches Hautbild",
+          "ar": "بشرة أكثر نضارة"
+        },
+        {
+          "de": "Für verschiedene Hauttypen geeignet",
+          "ar": "مناسب لمختلف أنواع البشرة"
+        }
+      ],
+      "image": "/uploads/media/treatments/hydrafacial.png"
+    },
+    {
+      "slug": "oxygeneo",
+      "order": 6,
+      "name": {
+        "de": "OxyGeneo",
+        "ar": "أوكسيجينيو"
+      },
+      "excerpt": {
+        "de": "Innovative Gesichtsbehandlung zur Unterstützung der Hauterneuerung und Ausstrahlung.",
+        "ar": "علاج حديث يساعد على تجديد البشرة وتحسين إشراقتها."
+      },
+      "description": {
+        "de": "OxyGeneo ist eine innovative Gesichtsbehandlung zur Unterstützung der Hauterneuerung und Verbesserung der Hautausstrahlung.",
+        "ar": "الأوكسيجينيو هو علاج حديث يساعد على تجديد البشرة وتحسين إشراقتها ومظهرها العام."
+      },
+      "benefits": [
+        {
+          "de": "Frischeres Hautbild",
+          "ar": "زيادة نضارة البشرة"
+        },
+        {
+          "de": "Verbesserung der Hautausstrahlung",
+          "ar": "تحسين الإشراقة الطبيعية"
+        },
+        {
+          "de": "Unterstützung der Hauterneuerung",
+          "ar": "دعم تجدد الجلد"
+        },
+        {
+          "de": "Gleichmäßiger Teint",
+          "ar": "توحيد مظهر البشرة"
+        }
+      ],
+      "image": "/uploads/media/treatments/oxygeneo.png"
+    },
+    {
+      "slug": "laser-haarentfernung",
+      "order": 7,
+      "name": {
+        "de": "Laser-Haarentfernung",
+        "ar": "إزالة الشعر بالليزر"
+      },
+      "excerpt": {
+        "de": "Moderne Methode zur langfristigen Reduzierung unerwünschter Haare.",
+        "ar": "تقنية حديثة للتقليل طويل الأمد من نمو الشعر غير المرغوب فيه."
+      },
+      "description": {
+        "de": "Die Laser-Haarentfernung ist eine moderne Methode zur langfristigen Reduzierung unerwünschter Haare. Die Behandlung eignet sich für verschiedene Körperbereiche und sorgt für ein glattes Hautgefühl.",
+        "ar": "إزالة الشعر بالليزر هي تقنية حديثة تساعد على التقليل طويل الأمد من نمو الشعر غير المرغوب فيه وتمنح البشرة ملمساً أكثر نعومة."
+      },
+      "benefits": [
+        {
+          "de": "Langfristige Haarreduktion",
+          "ar": "تقليل نمو الشعر على المدى الطويل"
+        },
+        {
+          "de": "Glatteres Hautgefühl",
+          "ar": "بشرة أكثر نعومة"
+        },
+        {
+          "de": "Präzise Behandlung",
+          "ar": "معالجة دقيقة لمختلف المناطق"
+        },
+        {
+          "de": "Für viele Körperregionen geeignet",
+          "ar": "مناسبة للعديد من مناطق الجسم"
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "de": "Was bedeutet Laser-Haarentfernung?",
+            "ar": "ما هي إزالة الشعر بالليزر؟"
+          },
+          "body": {
+            "de": "Haare enthalten Melanin. Die Laserstrahlen werden im Melanin aufgenommen und in Wärme umgewandelt. Haare in der Wachstumsphase können so gezielt behandelt werden, um eine langfristige Haarreduktion zu erreichen.\n\nDie Laser-Haarentfernung ist eine moderne Methode zur langfristigen Reduzierung unerwünschter Haare und eignet sich für verschiedene Körperbereiche – für ein glattes, gepflegtes Hautgefühl.",
+            "ar": "يحتوي الشعر على الميلانين. يمتص الليزر هذا الصبغة ويحوّله إلى حرارة، ما يسمح باستهداف الشعر في مرحلة النمو لتحقيق تقليل طويل الأمد لنمو الشعر غير المرغوب فيه.\n\nتُعد إزالة الشعر بالليزر تقنية حديثة مناسبة لمختلف مناطق الجسم وتمنح البشرة ملمساً أكثر نعومة."
+          }
+        },
+        {
+          "heading": {
+            "de": "Wie funktioniert die Behandlung?",
+            "ar": "كيف تتم المعالجة؟"
+          },
+          "body": {
+            "de": "Vor der Behandlung wird die Haut vorbereitet und ein kühlendes Gel aufgetragen. Das Behandlungsareal wird mit dem Laserapplikator präzise abgefahren. Die Energie erwärmt die Haarwurzel gezielt, sodass das Haarwachstum reduziert werden kann.\n\nGrundsätzlich kann störende Behaarung an fast jeder Stelle des Körpers behandelt werden. Aufgrund der Haarwachstumszyklen sind in der Regel mehrere Sitzungen im Abstand von ca. 6–12 Wochen erforderlich.",
+            "ar": "قبل المعالجة يتم تحضير البشرة ووضع جل مبرد. بعد ذلك يُمرّر جهاز الليزر بدقة على المنطقة المطلوبة لتسخين بصيلة الشعر واستهدافها.\n\nيمكن علاج الشعر الزائد في معظم مناطق الجسم. وبسبب دورات نمو الشعر، عادةً ما تكون هناك حاجة لعدة جلسات على فترات تتراوح بين 6 و12 أسبوعاً."
+          }
+        },
+        {
+          "heading": {
+            "de": "Wie bereiten Sie sich vor?",
+            "ar": "كيف تستعدين للمعالجة؟"
+          },
+          "body": {
+            "de": "• Ausreichend trinken (mindestens 2–3 Liter pro Tag) in den Tagen vor der Behandlung\n• Je nach Behandlung: kein Sonnenbad oder Solarium bis zu 2 Wochen vorher\n• Das Areal je nach Körperregion 4–12 Wochen vorher nicht epilieren oder zupfen\n• Haut gründlich reinigen – Make-up und Kosmetika vor der Behandlung entfernen\n• Während der Behandlung wird eine Schutzbrille getragen",
+            "ar": "• شرب كمية كافية من الماء (2–3 لتر يومياً) في الأيام السابقة للجلسة\n• تجنّبي التعرض المباشر للشمس أو السولاريوم قبل المعالجة حسب توصية الأخصائية\n• عدم إزالة الشعر من الجذور (شمع أو ملقط) قبل 4–12 أسبوعاً حسب المنطقة\n• تنظيف البشرة جيداً وإزالة المكياج قبل الجلسة\n• ارتداء نظارات الحماية أثناء المعالجة"
+          }
+        },
+        {
+          "heading": {
+            "de": "Wann sollte die Behandlung nicht durchgeführt werden?",
+            "ar": "متى لا يُنصح بإجراء المعالجة؟"
+          },
+          "body": {
+            "de": "• Bei frisch gebräunter Haut\n• Bei ekzematös veränderter Haut im Behandlungsareal\n• Während der Schwangerschaft\n• Bei bestimmten Hauterkrankungen im Behandlungsareal\n• Bei Einnahme photosensibilisierender Medikamente",
+            "ar": "• عند وجود اسمرار حديث للبشرة\n• عند وجود التهابات أو eczema في منطقة المعالجة\n• أثناء الحمل\n• عند وجود بعض الأمراض الجلدية في المنطقة المعالجة\n• عند تناول أدوية تزيد حساسية البشرة للضوء"
+          }
+        },
+        {
+          "heading": {
+            "de": "Was sollten Sie nach der Behandlung beachten?",
+            "ar": "ما الذي يجب مراعاته بعد المعالجة؟"
+          },
+          "body": {
+            "de": "Nach der Behandlung kann die Haut leicht gerötet sein – dies klingt in der Regel innerhalb weniger Stunden ab. Vermeiden Sie direkte Sonneneinstrahlung und Solarium für einige Tage und pflegen Sie die Haut mit einem beruhigenden Pflegeprodukt.\n\nIn der Regel können Sie nach der Behandlung Ihren gewohnten Aktivitäten nachgehen. Bei Fragen stehen wir Ihnen gerne zur Verfügung.",
+            "ar": "قد تظهر احمراراً خفيفاً بعد الجلسة ويختفي عادة خلال ساعات. يُنصح بتجنّب أشعة الشمس المباشرة والسولاريوم لعدة أيام واستخدام منتجات مهدّئة للبشرة.\n\nفي العادة يمكنكِ متابعة أنشطتكِ اليومية بعد المعالجة. نحن متاحون للإجابة على أي استفسار."
+          }
+        },
+        {
+          "heading": {
+            "de": "Folgetermine",
+            "ar": "الجلسات اللاحقة"
+          },
+          "body": {
+            "de": "Die Behandlungen sollten im Abstand von ca. 6–12 Wochen stattfinden. Je nach Indikation und Körperregion sind in der Regel 6–8 Sitzungen für ein optimales Ergebnis erforderlich.",
+            "ar": "يُفضّل أن تكون الجلسات على فترات بين 6 و12 أسبوعاً. حسب المنطقة والحالة، قد تحتاجين عادةً إلى 6–8 جلسات للحصول على أفضل نتيجة."
+          }
+        }
+      ],
+      "gallery": [
+        {
+          "src": "/uploads/media/treatments/laser-haarentfernung.png",
+          "alt": {
+            "de": "Laser-Haarentfernung – Behandlungsablauf",
+            "ar": "إزالة الشعر بالليزر – أثناء المعالجة"
+          },
+          "caption": {
+            "de": "Präzise Laser-Behandlung in unserer Praxis",
+            "ar": "معالجة ليزر دقيقة في عيادتنا"
+          }
+        },
+        {
+          "src": "/uploads/media/treatments/laser-haarentfernung.png",
+          "alt": {
+            "de": "Moderne Laser-Technologie",
+            "ar": "تقنية ليزر حديثة"
+          },
+          "caption": {
+            "de": "Sanfte und effektive Haarentfernung",
+            "ar": "إزالة شعر لطيفة وفعّالة"
+          }
+        }
+      ],
+      "image": "/uploads/media/treatments/laser-haarentfernung.png"
+    },
+    {
+      "slug": "saeurepeeling",
+      "order": 8,
+      "name": {
+        "de": "Säurepeeling",
+        "ar": "تقشير الأحماض"
+      },
+      "excerpt": {
+        "de": "Entfernung abgestorbener Hautzellen für ein frischeres, ebenmäßigeres Hautbild.",
+        "ar": "إزالة الخلايا الميتة وتحسين مظهر البشرة وملمسها."
+      },
+      "description": {
+        "de": "Das Säurepeeling ist eine kosmetische Behandlung zur Entfernung abgestorbener Hautzellen und zur Verbesserung des Hautbildes. Die Haut wirkt frischer und ebenmäßiger.",
+        "ar": "تقشير الأحماض هو إجراء تجميلي يساعد على إزالة الخلايا الميتة وتحسين مظهر البشرة وملمسها."
+      },
+      "benefits": [
+        {
+          "de": "Verfeinerung der Hautstruktur",
+          "ar": "تحسين ملمس البشرة"
+        },
+        {
+          "de": "Frischeres Hautbild",
+          "ar": "زيادة النضارة والإشراق"
+        },
+        {
+          "de": "Unterstützung der Hauterneuerung",
+          "ar": "دعم تجدد البشرة"
+        },
+        {
+          "de": "Gleichmäßigeres Erscheinungsbild",
+          "ar": "مظهر أكثر تجانساً"
+        }
+      ],
+      "image": "/uploads/media/treatments/saeurepeeling.png"
+    },
+    {
+      "slug": "green-peel",
+      "order": 9,
+      "name": {
+        "de": "Green Peel",
+        "ar": "التقشير الأخضر"
+      },
+      "excerpt": {
+        "de": "Pflanzliche Behandlung zur Unterstützung der natürlichen Hauterneuerung.",
+        "ar": "علاج نباتي يدعم تجدد البشرة الطبيعي ويحسن مظهرها."
+      },
+      "description": {
+        "de": "Green Peel ist eine pflanzliche Behandlung zur Unterstützung der natürlichen Hauterneuerung. Die Behandlung wird individuell auf die Bedürfnisse der Haut abgestimmt.",
+        "ar": "التقشير الأخضر هو علاج نباتي يهدف إلى دعم تجدد البشرة الطبيعي وتحسين مظهرها بشكل عام."
+      },
+      "benefits": [
+        {
+          "de": "Förderung der Hautregeneration",
+          "ar": "تعزيز تجدد البشرة"
+        },
+        {
+          "de": "Verbesserung der Hautstruktur",
+          "ar": "تحسين ملمس الجلد"
+        },
+        {
+          "de": "Frischeres Hautbild",
+          "ar": "زيادة النضارة والإشراق"
+        },
+        {
+          "de": "Natürliche Behandlungsmethode",
+          "ar": "علاج يعتمد على مكونات نباتية"
+        }
+      ],
+      "image": "/uploads/media/treatments/green-peel.png"
+    },
+    {
+      "slug": "akne-behandlung",
+      "order": 10,
+      "name": {
+        "de": "Akne-Behandlung",
+        "ar": "علاج حب الشباب"
+      },
+      "excerpt": {
+        "de": "Moderne Geräte und individuell abgestimmte Behandlungen für unreine Haut.",
+        "ar": "أجهزة وتقنيات حديثة للعناية بالبشرة المعرضة لحب الشباب."
+      },
+      "description": {
+        "de": "Moderne Geräte und individuell abgestimmte Behandlungen unterstützen die Pflege unreiner Haut und tragen zu einem ausgeglicheneren Hautbild bei.",
+        "ar": "يتم استخدام أجهزة وتقنيات حديثة للمساعدة في العناية بالبشرة المعرضة لحب الشباب وتحسين مظهرها."
+      },
+      "benefits": [
+        {
+          "de": "Unterstützung bei unreiner Haut",
+          "ar": "العناية بالبشرة المعرضة للحبوب"
+        },
+        {
+          "de": "Verbesserung des Hautbildes",
+          "ar": "تحسين مظهر البشرة"
+        },
+        {
+          "de": "Individuell angepasste Behandlung",
+          "ar": "علاجات مخصصة حسب الحاجة"
+        },
+        {
+          "de": "Gepflegteres Erscheinungsbild",
+          "ar": "بشرة أكثر صفاءً وتوازناً"
+        }
+      ],
+      "image": "/uploads/media/treatments/akne-behandlung.png"
+    },
+    {
+      "slug": "pigmentbehandlung",
+      "order": 11,
+      "name": {
+        "de": "Pigmentbehandlung",
+        "ar": "علاج التصبغات"
+      },
+      "excerpt": {
+        "de": "Verbesserung des Erscheinungsbildes von Pigmentflecken und ungleichmäßigem Hautton.",
+        "ar": "تحسين مظهر البقع اللونية وتوحيد لون البشرة."
+      },
+      "description": {
+        "de": "Pigmentbehandlungen dienen der Verbesserung des Erscheinungsbildes von Pigmentflecken und einem ungleichmäßigen Hautton. Die Behandlung wird individuell auf die Haut abgestimmt.",
+        "ar": "علاجات التصبغات تهدف إلى تحسين مظهر البقع اللونية وتوحيد لون البشرة بما يتناسب مع احتياجات كل حالة."
+      },
+      "benefits": [
+        {
+          "de": "Gleichmäßigeres Hautbild",
+          "ar": "توحيد لون البشرة"
+        },
+        {
+          "de": "Verbesserung des Hauttons",
+          "ar": "تحسين مظهر التصبغات"
+        },
+        {
+          "de": "Gepflegteres Erscheinungsbild",
+          "ar": "مظهر أكثر صفاءً وتناسقاً"
+        },
+        {
+          "de": "Individuell abgestimmte Behandlung",
+          "ar": "علاج مخصص حسب حالة البشرة"
+        }
+      ],
+      "image": "/uploads/media/treatments/pigmentbehandlung.png"
+    },
+    {
+      "slug": "dermabrasion",
+      "order": 12,
+      "name": {
+        "de": "Dermabrasion",
+        "ar": "الديرمابراسيون"
+      },
+      "excerpt": {
+        "de": "Schonende Behandlung zur Entfernung abgestorbener Hautzellen und Verfeinerung des Hautbildes.",
+        "ar": "إجراء لطيف لإزالة خلايا الجلد الميتة وتحسين مظهر البشرة."
+      },
+      "description": {
+        "de": "Dermabrasion ist eine schonende kosmetische Behandlung zur Entfernung abgestorbener Hautzellen und zur Verfeinerung des Hautbildes. Die Behandlung unterstützt die Hauterneuerung und sorgt für ein frisches, glattes und gepflegtes Aussehen.",
+        "ar": "الديرمابراسيون هو إجراء تجميلي لطيف يهدف إلى إزالة خلايا الجلد الميتة وتحسين مظهر البشرة. تساعد هذه المعالجة على تجديد البشرة ومنحها مظهراً أكثر نعومة وإشراقاً وحيوية."
+      },
+      "benefits": [
+        {
+          "de": "Entfernung abgestorbener Hautzellen",
+          "ar": "إزالة خلايا الجلد الميتة"
+        },
+        {
+          "de": "Verfeinerung des Hautbildes",
+          "ar": "تحسين ملمس البشرة"
+        },
+        {
+          "de": "Frischeres und strahlenderes Aussehen",
+          "ar": "مظهر أكثر نضارة وإشراقاً"
+        },
+        {
+          "de": "Unterstützung der Hauterneuerung",
+          "ar": "دعم تجدد البشرة الطبيعي"
+        },
+        {
+          "de": "Glatteres Hautgefühl",
+          "ar": "بشرة أكثر نعومة وحيوية"
+        }
+      ],
+      "image": "/uploads/media/treatments/dermabrasion.png"
+    }
+  ],
+  "coursesIntro": {
+    "description": {
+      "de": "Bei Karmen Kosmetik Akademie bieten wir praxisorientierte Schulungen im Bereich Kosmetik und Hautpflege an. Unsere Kurse verbinden Theorie und Praxis, damit Teilnehmerinnen die Behandlungen sicher und professionell durchführen können. Unsere Schulungen werden in deutscher und arabischer Sprache angeboten. Unsere Schulungen umfassen Gesichtsbehandlungen, Hautpflege, apparative Kosmetik, Pigmentierungstechniken sowie moderne kosmetische Behandlungsmethoden. Dabei legen wir besonderen Wert auf Hygiene, Desinfektion, professionelle Arbeitsabläufe und praxisorientiertes Lernen.",
+      "ar": "نقدم في أكاديمية كارمن كوزماتيك دورات تدريبية عملية في مجال التجميل والعناية بالبشرة، تجمع بين الجانب النظري والتطبيق العملي لمساعدة المتدربات على اكتساب المهارات اللازمة للعمل باحترافية وثقة. تُقدَّم الدورات باللغتين العربية والألمانية. تشمل دوراتنا علاجات البشرة، والعناية بالجلد، والتجميل باستخدام الأجهزة، وتقنيات التصبغ التجميلي، بالإضافة إلى أحدث أساليب التجميل غير الجراحية. كما نولي أهمية خاصة للتعقيم والنظافة المهنية وتنظيم بيئة العمل والتدريب العملي المباشر."
+    },
+    "completeCourse": {
+      "de": "Wir bieten einen umfassenden Fachkosmetik-Kurs über einen Zeitraum von 6 Monaten an. Die Teilnehmerinnen erwerben theoretische und praktische Kenntnisse in verschiedenen Bereichen der Kosmetik und Hautpflege.",
+      "ar": "نقدم دورة فاخ كوزميتك متكاملة تمتد على مدار 6 أشهر، وتشمل الجوانب النظرية والتطبيقية في مختلف مجالات التجميل والعناية بالبشرة."
+    },
+    "singleCourses": {
+      "de": "Zusätzlich bieten wir individuelle Einzelkurse an. Teilnehmerinnen können die gewünschte Schulung frei auswählen. Dauer, Unterrichtsstunden und Schulungstage werden individuell entsprechend dem gewählten Kurs und den Bedürfnissen der Teilnehmerin festgelegt.",
+      "ar": "نوفر أيضاً دورات منفردة يمكن للطالب أو الطالبة اختيار الدورة المطلوبة بشكل مستقل. يتم تحديد عدد الساعات وأيام التدريب وفقاً للدورة المختارة واحتياجات المتقدم."
+    },
+    "courseList": [
+      {
+        "de": "Fachkosmetik",
+        "ar": "الفاخ كوزميتك"
+      },
+      {
+        "de": "Microneedling",
+        "ar": "الميكرونيدلينغ"
+      },
+      {
+        "de": "Hydra Needle",
+        "ar": "الهيدرا نيدل"
+      },
+      {
+        "de": "Hydrafacial",
+        "ar": "الهيدرافيشل"
+      },
+      {
+        "de": "Oxygeneo",
+        "ar": "الأوكسيجينيو"
+      },
+      {
+        "de": "Dermabrasion",
+        "ar": "الديرمابراسيون"
+      },
+      {
+        "de": "Säurepeeling",
+        "ar": "التقشير بالأحماض"
+      },
+      {
+        "de": "Kräuterpeeling",
+        "ar": "التقشير العشبي"
+      },
+      {
+        "de": "BB Glow",
+        "ar": "البيبي غلو"
+      },
+      {
+        "de": "Microblading",
+        "ar": "المايكروبليدينغ"
+      },
+      {
+        "de": "Lippenblush",
+        "ar": "توريد الشفاه"
+      }
+    ],
+    "whyUs": [
+      {
+        "de": "Unterricht auf Deutsch und Arabisch",
+        "ar": "التدريب باللغة العربية والألمانية"
+      },
+      {
+        "de": "Praxisorientierte Schulungen",
+        "ar": "تطبيق عملي مباشر"
+      },
+      {
+        "de": "Hygiene- und Desinfektionsschulungen",
+        "ar": "تعليم أسس التعقيم والنظافة المهنية"
+      },
+      {
+        "de": "Kleine Gruppen",
+        "ar": "مجموعات صغيرة"
+      },
+      {
+        "de": "Persönliche Betreuung",
+        "ar": "متابعة شخصية للمتدربات"
+      },
+      {
+        "de": "Individuelle Kursplanung",
+        "ar": "إمكانية اختيار الدورات وتحديد الساعات والأيام حسب الدورة"
+      },
+      {
+        "de": "Teilnahmebescheinigungen und Zertifikate",
+        "ar": "شهادات مشاركة وشهادات دورات"
+      },
+      {
+        "de": "Zertifikate mit Akademiestempel",
+        "ar": "شهادات مختومة بختم الأكاديمية"
+      },
+      {
+        "de": "BFD-anerkannte Zertifikate",
+        "ar": "شهادات معتمدة من BFD"
+      },
+      {
+        "de": "Moderne Lernmethoden mit Theorie und Praxis",
+        "ar": "الجمع بين التعليم النظري والتطبيق العملي"
+      }
+    ]
+  },
+  "courses": [
+    {
+      "slug": "fachkosmetik-komplettkurs",
+      "order": 1,
+      "name": {
+        "de": "Fachkosmetik-Komplettkurs",
+        "ar": "دورة الفاخ كوزميتك الشاملة"
+      },
+      "duration": {
+        "de": "6 Monate",
+        "ar": "6 أشهر"
+      },
+      "schedule": {
+        "de": "Termine nach Absprache",
+        "ar": "المواعيد حسب الاتفاق"
+      },
+      "priceFrom": null,
+      "excerpt": {
+        "de": "Umfassender Fachkosmetik-Kurs über 6 Monate mit theoretischen und praktischen Kenntnissen in allen Bereichen der Kosmetik und Hautpflege.",
+        "ar": "دورة متكاملة تمتد 6 أشهر تشمل الجوانب النظرية والتطبيقية في مختلف مجالات التجميل والعناية بالبشرة."
+      },
+      "description": {
+        "de": "Wir bieten einen umfassenden Fachkosmetik-Kurs über einen Zeitraum von 6 Monaten an. Die Teilnehmerinnen erwerben theoretische und praktische Kenntnisse in verschiedenen Bereichen der Kosmetik und Hautpflege.",
+        "ar": "نقدم دورة فاخ كوزميتك متكاملة تمتد على مدار 6 أشهر، وتشمل الجوانب النظرية والتطبيقية في مختلف مجالات التجميل والعناية بالبشرة."
+      },
+      "curriculum": [],
+      "certificate": {
+        "de": "Teilnahmebescheinigung und Zertifikat mit Akademiestempel, BFD-anerkannt.",
+        "ar": "شهادة مشاركة وشهادة مختومة بختم الأكاديمية ومعتمدة من BFD."
+      },
+      "audience": {
+        "de": "Für alle, die eine umfassende Ausbildung in der Fachkosmetik anstreben.",
+        "ar": "لكل من يرغب بتأهيل شامل في مجال الفاخ كوزميتك."
+      }
+    },
+    {
+      "slug": "permanent-make-up-microblading",
+      "order": 2,
+      "name": {
+        "de": "Permanent Make-Up / Microblading",
+        "ar": "دورة المكياج الدائم والمايكروبليدينغ"
+      },
+      "subtitle": {
+        "de": "Augenbrauen | Lidstriche | Lippen",
+        "ar": "الحواجب | الآيلاينر (خط العين) | الشفاه"
+      },
+      "duration": {
+        "de": "Je nach Option 2–6 Tage",
+        "ar": "من يومين إلى 6 أيام حسب البرنامج المختار"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 750,
+      "excerpt": {
+        "de": "Professionelle Intensivausbildung in Permanent Make-Up und Microblading für Augenbrauen, Lidstriche und Lippen.",
+        "ar": "تدريب احترافي مكثف على المكياج الدائم والمايكروبليدينغ للحواجب وخط العين والشفاه."
+      },
+      "description": {
+        "de": "Im Rahmen unserer Intensivausbildung führen Sie praktische Pigmentierungen unter fachlicher Anleitung durch. Permanent Make-Up Modelle können selbst mitgebracht werden (keine Modellgebühr). Sie erhalten eine ausführliche Schulungsmappe mit allen wichtigen Informationen für Theorie und Praxis.",
+        "ar": "تشمل الدورة تدريباً عملياً على التصبغ التجميلي تحت إشراف المدربة. يمكن للمتدربة إحضار الموديلات الخاصة بها دون أي رسوم إضافية. وتحصل المتدربة على ملف تدريبي متكامل يحتوي على جميع المعلومات النظرية والعملية اللازمة للدورة."
+      },
+      "curriculum": [
+        {
+          "de": "Beratungsgespräch",
+          "ar": "الاستشارة الأولية مع العميلة"
+        },
+        {
+          "de": "Einverständniserklärung",
+          "ar": "نموذج الموافقة على الإجراء"
+        },
+        {
+          "de": "Kundenkartei",
+          "ar": "ملف العميلة وتوثيق البيانات"
+        },
+        {
+          "de": "Behandlungsablauf",
+          "ar": "خطوات إجراء المعالجة"
+        },
+        {
+          "de": "Wann darf nicht pigmentiert werden",
+          "ar": "الحالات التي يمنع فيها إجراء التصبغ"
+        },
+        {
+          "de": "Unterschied Permanent Make-Up und Tätowierung",
+          "ar": "الفرق بين المكياج الدائم والوشم"
+        },
+        {
+          "de": "Vorzeichentechnik",
+          "ar": "تقنيات رسم وتحديد الشكل قبل العمل"
+        },
+        {
+          "de": "Materialkunde und Farblehre",
+          "ar": "التعرف على المواد والأدوات المستخدمة"
+        },
+        {
+          "de": "Farbmischung und Farblehre",
+          "ar": "نظرية الألوان وخلط الأصباغ واختيارها"
+        },
+        {
+          "de": "Hygienevorschriften",
+          "ar": "قواعد النظافة والتعقيم"
+        },
+        {
+          "de": "Risiken und deren Vermeidung",
+          "ar": "المخاطر المحتملة وكيفية تجنبها"
+        },
+        {
+          "de": "Rechtliche Grundlagen",
+          "ar": "الجوانب القانونية"
+        },
+        {
+          "de": "Selbstschutz und Prävention",
+          "ar": "الحماية الشخصية وإجراءات الوقاية"
+        },
+        {
+          "de": "Anästhesie",
+          "ar": "التخدير الموضعي"
+        },
+        {
+          "de": "Nachversorgung und Nacharbeiten",
+          "ar": "العناية اللاحقة والتصحيح"
+        },
+        {
+          "de": "Gerätekunde",
+          "ar": "التعرف على الأجهزة وطريقة استخدامها"
+        },
+        {
+          "de": "Erste Pigmentierungen auf Übungsmatten",
+          "ar": "التدريب الأول على الجلد التدريبي"
+        },
+        {
+          "de": "Pigmentierung von Lidstrichen und Wimpernverdichtung",
+          "ar": "تصبغ الآيلاينر وتكثيف الرموش"
+        },
+        {
+          "de": "Pigmentierung von Augenbrauen",
+          "ar": "تصبغ الحواجب"
+        },
+        {
+          "de": "Pigmentierung von Lippen",
+          "ar": "تصبغ الشفاه"
+        },
+        {
+          "de": "Arbeiten an Modellen",
+          "ar": "التدريب العملي على الموديلات"
+        },
+        {
+          "de": "Theoretisches Wissen über Augenbrauen, Lippen, Lidstriche und Pigmentierung",
+          "ar": "المعرفة النظرية الخاصة بالحواجب والشفاه والآيلاينر والتصبغ التجميلي"
+        },
+        {
+          "de": "Preisgestaltung",
+          "ar": "التسعير وحساب تكلفة الخدمات"
+        },
+        {
+          "de": "Werbemöglichkeiten und Kundengewinnung",
+          "ar": "التسويق والإعلان واستقطاب العملاء"
+        }
+      ],
+      "certificate": {
+        "de": "Bei erfolgreichem Abschluss erhalten Sie Ihr Zertifikat mit Akademiestempel sowie eine BFD-anerkannte Bescheinigung.",
+        "ar": "بعد إتمام الدورة بنجاح تحصل المتدربة على شهادة مختومة بختم الأكاديمية بالإضافة إلى شهادة معتمدة من BFD."
+      },
+      "audience": {
+        "de": "Für alle Personen, die sich im Bereich Permanent Make-Up und Microblading professionell ausbilden lassen möchten.",
+        "ar": "مناسبة لكل شخص يرغب في تعلم المكياج الدائم والمايكروبليدينغ بشكل احترافي."
+      }
+    },
+    {
+      "slug": "microneedling",
+      "order": 3,
+      "name": {
+        "de": "Microneedling",
+        "ar": "دورة المايكرونيدلينغ"
+      },
+      "duration": {
+        "de": "1 Tag",
+        "ar": "يوم واحد"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 800,
+      "excerpt": {
+        "de": "Eintägige Intensivschulung: Hautanalyse, Nadelkunde, Behandlungsablauf und praktische Übungen am Modell.",
+        "ar": "دورة مكثفة ليوم واحد: تحليل البشرة، أنواع الإبر، خطوات العلاج وتطبيق عملي على موديل."
+      },
+      "description": {
+        "de": "Professionelle Microneedling-Schulung mit Theorie und praktischen Übungen am Modell.",
+        "ar": "دورة احترافية في المايكرونيدلينغ تجمع بين النظري والتطبيق العملي على موديل."
+      },
+      "curriculum": [
+        {
+          "de": "Hautanalyse",
+          "ar": "تحليل البشرة"
+        },
+        {
+          "de": "Indikationen und Kontraindikationen",
+          "ar": "دواعي وموانع العلاج"
+        },
+        {
+          "de": "Hygienevorschriften",
+          "ar": "قواعد النظافة والتعقيم"
+        },
+        {
+          "de": "Materialkunde",
+          "ar": "التعرف على المواد والأدوات"
+        },
+        {
+          "de": "Nadelkunde",
+          "ar": "التعرف على أنواع الإبر"
+        },
+        {
+          "de": "Behandlungsablauf",
+          "ar": "خطوات العلاج"
+        },
+        {
+          "de": "Vorbereitung der Haut",
+          "ar": "تحضير البشرة قبل الجلسة"
+        },
+        {
+          "de": "Microneedling Gesicht",
+          "ar": "المايكرونيدلينغ للوجه"
+        },
+        {
+          "de": "Microneedling Hals und Dekolleté",
+          "ar": "المايكرونيدلينغ للرقبة ومنطقة الديكولتيه"
+        },
+        {
+          "de": "Wirkstoffe und Seren",
+          "ar": "السيرومات والمواد الفعالة"
+        },
+        {
+          "de": "Nachsorge",
+          "ar": "العناية بعد الجلسة"
+        },
+        {
+          "de": "Praktische Übungen am Modell",
+          "ar": "تطبيق عملي على موديل"
+        }
+      ],
+      "certificate": {
+        "de": "Bei erfolgreichem Abschluss erhalten Sie Ihr Zertifikat.",
+        "ar": "عند اجتياز الدورة بنجاح يحصل المتدرب على شهادة معتمدة."
+      },
+      "audience": {
+        "de": "Für Kosmetikerinnen und alle Personen, die Microneedling professionell erlernen möchten.",
+        "ar": "أخصائيات التجميل وكل من يرغب بتعلم المايكرونيدلينغ بشكل احترافي."
+      }
+    },
+    {
+      "slug": "bb-glow",
+      "order": 4,
+      "name": {
+        "de": "BB Glow",
+        "ar": "دورة البي بي جلو"
+      },
+      "duration": {
+        "de": "1 Tag",
+        "ar": "يوم واحد"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 500,
+      "excerpt": {
+        "de": "BB Glow Theorie, Hauttypen, Farbauswahl und praktisches Arbeiten am Modell.",
+        "ar": "أساسيات تقنية BB Glow وأنواع البشرة واختيار الألوان مع تطبيق عملي."
+      },
+      "description": {
+        "de": "BB Glow Schulung mit Theorie, Farbauswahl und praktischem Arbeiten am Modell.",
+        "ar": "دورة البي بي جلو تشمل الجانب النظري واختيار الألوان والتطبيق العملي على موديل."
+      },
+      "curriculum": [
+        {
+          "de": "BB Glow Theorie",
+          "ar": "أساسيات تقنية BB Glow"
+        },
+        {
+          "de": "Hauttypen",
+          "ar": "أنواع البشرة"
+        },
+        {
+          "de": "Farbauswahl",
+          "ar": "اختيار الألوان المناسبة"
+        },
+        {
+          "de": "Hygiene",
+          "ar": "قواعد النظافة والتعقيم"
+        },
+        {
+          "de": "Behandlungsablauf",
+          "ar": "خطوات العلاج"
+        },
+        {
+          "de": "Kontraindikationen",
+          "ar": "موانع العلاج"
+        },
+        {
+          "de": "Wirkstoffe",
+          "ar": "المواد المستخدمة"
+        },
+        {
+          "de": "Praktisches Arbeiten am Modell",
+          "ar": "تطبيق عملي على موديل"
+        }
+      ],
+      "certificate": {
+        "de": "Zertifikat",
+        "ar": "شهادة معتمدة"
+      },
+      "audience": {
+        "de": "Für alle, die BB Glow professionell erlernen möchten.",
+        "ar": "لكل من يرغب بتعلم تقنية BB Glow بشكل احترافي."
+      }
+    },
+    {
+      "slug": "hydrafacial",
+      "order": 5,
+      "name": {
+        "de": "Hydrafacial",
+        "ar": "دورة الهيدرافيشل"
+      },
+      "duration": {
+        "de": "1 Tag",
+        "ar": "يوم واحد"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 800,
+      "excerpt": {
+        "de": "Hautanalyse, Gerätekunde, Tiefenreinigung, Peelings, Seren und praktische Übungen.",
+        "ar": "تحليل البشرة والتعرف على الجهاز والتنظيف العميق والتقشير والسيرومات مع تطبيق عملي."
+      },
+      "description": {
+        "de": "Hydrafacial-Schulung mit Gerätekunde und vollständigem Behandlungsablauf.",
+        "ar": "دورة الهيدرافيشل تشمل التعرف على الجهاز وخطوات الجلسة الكاملة."
+      },
+      "curriculum": [
+        {
+          "de": "Hautanalyse",
+          "ar": "تحليل البشرة"
+        },
+        {
+          "de": "Gerätekunde",
+          "ar": "التعرف على الجهاز"
+        },
+        {
+          "de": "Tiefenreinigung",
+          "ar": "التنظيف العميق للبشرة"
+        },
+        {
+          "de": "Peelings",
+          "ar": "التقشير"
+        },
+        {
+          "de": "Wirkstoffe",
+          "ar": "المواد الفعالة"
+        },
+        {
+          "de": "Serum-Anwendungen",
+          "ar": "تطبيق السيرومات"
+        },
+        {
+          "de": "Behandlungsablauf",
+          "ar": "خطوات الجلسة الكاملة"
+        },
+        {
+          "de": "Praktische Übungen",
+          "ar": "تطبيق عملي"
+        }
+      ],
+      "certificate": {
+        "de": "Zertifikat",
+        "ar": "شهادة معتمدة"
+      },
+      "audience": {
+        "de": "Für alle, die Hydrafacial professionell erlernen möchten.",
+        "ar": "لكل من يرغب بتعلم الهيدرافيشل بشكل احترافي."
+      }
+    },
+    {
+      "slug": "oxygeneo",
+      "order": 6,
+      "name": {
+        "de": "Oxygeneo",
+        "ar": "دورة الأوكسجينيو"
+      },
+      "duration": {
+        "de": "1 Tag",
+        "ar": "يوم واحد"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 800,
+      "excerpt": {
+        "de": "Einführung, Hautanalyse, Behandlungsschritte, Sauerstoffversorgung der Haut und praktische Anwendung.",
+        "ar": "التعريف بالتقنية وتحليل البشرة وخطوات العلاج وتحفيز الأوكسجين مع تطبيق عملي."
+      },
+      "description": {
+        "de": "Oxygeneo-Schulung mit Theorie und praktischer Anwendung.",
+        "ar": "دورة الأوكسجينيو تجمع بين الجانب النظري والتطبيق العملي."
+      },
+      "curriculum": [
+        {
+          "de": "Einführung Oxygeneo",
+          "ar": "التعريف بتقنية الأوكسجينيو"
+        },
+        {
+          "de": "Hautanalyse",
+          "ar": "تحليل البشرة"
+        },
+        {
+          "de": "Behandlungsschritte",
+          "ar": "خطوات العلاج"
+        },
+        {
+          "de": "Sauerstoffversorgung der Haut",
+          "ar": "تحفيز الأوكسجين الطبيعي للبشرة"
+        },
+        {
+          "de": "Wirkstoffkunde",
+          "ar": "المواد الفعالة"
+        },
+        {
+          "de": "Praktische Anwendung",
+          "ar": "تطبيق عملي"
+        }
+      ],
+      "certificate": {
+        "de": "Zertifikat",
+        "ar": "شهادة معتمدة"
+      },
+      "audience": {
+        "de": "Für alle, die Oxygeneo professionell erlernen möchten.",
+        "ar": "لكل من يرغب بتعلم الأوكسجينيو بشكل احترافي."
+      }
+    },
+    {
+      "slug": "dermabrasion",
+      "order": 7,
+      "name": {
+        "de": "Dermabrasion",
+        "ar": "دورة الديرمابراسيون"
+      },
+      "duration": {
+        "de": "1 Tag",
+        "ar": "يوم واحد"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 800,
+      "excerpt": {
+        "de": "Hautanalyse, Gerätekunde, Hygienestandards, Behandlungsablauf und praktische Übungen.",
+        "ar": "تحليل البشرة والتعرف على الجهاز ومعايير التعقيم وخطوات العلاج مع تطبيق عملي."
+      },
+      "description": {
+        "de": "Dermabrasion-Schulung mit Gerätekunde, Hygienestandards und praktischen Übungen.",
+        "ar": "دورة الديرمابراسيون تشمل التعرف على الجهاز ومعايير النظافة والتطبيق العملي."
+      },
+      "curriculum": [
+        {
+          "de": "Hautanalyse",
+          "ar": "تحليل البشرة"
+        },
+        {
+          "de": "Gerätekunde",
+          "ar": "التعرف على الجهاز"
+        },
+        {
+          "de": "Hygienestandards",
+          "ar": "معايير النظافة والتعقيم"
+        },
+        {
+          "de": "Behandlungsablauf",
+          "ar": "خطوات العلاج"
+        },
+        {
+          "de": "Indikationen",
+          "ar": "دواعي الاستخدام"
+        },
+        {
+          "de": "Nachbehandlung",
+          "ar": "العناية بعد الجلسة"
+        },
+        {
+          "de": "Praktische Übungen",
+          "ar": "تطبيق عملي"
+        }
+      ],
+      "certificate": {
+        "de": "Zertifikat",
+        "ar": "شهادة معتمدة"
+      },
+      "audience": {
+        "de": "Für alle, die Dermabrasion professionell erlernen möchten.",
+        "ar": "لكل من يرغب بتعلم الديرمابراسيون بشكل احترافي."
+      }
+    },
+    {
+      "slug": "saeurepeeling",
+      "order": 8,
+      "name": {
+        "de": "Säurepeeling / Fruchtsäurepeeling",
+        "ar": "دورة التقشير بالأحماض / أحماض الفواكه"
+      },
+      "duration": {
+        "de": "1 Tag",
+        "ar": "يوم واحد"
+      },
+      "schedule": {
+        "de": "Nach Absprache",
+        "ar": "حسب الاتفاق"
+      },
+      "priceFrom": 800,
+      "excerpt": {
+        "de": "Hautaufbau, verschiedene Säuren, pH-Wert, Behandlung von Akne und Pigmentflecken, praktische Übungen.",
+        "ar": "تشريح البشرة وأنواع الأحماض وقيمة الـ pH وعلاج حب الشباب والتصبغات مع تطبيق عملي."
+      },
+      "description": {
+        "de": "Säurepeeling-Schulung mit Theorie zu Säuren und pH-Wert sowie praktischen Übungen.",
+        "ar": "دورة التقشير بالأحماض تشمل الجانب النظري عن الأحماض وقيمة الـ pH والتطبيق العملي."
+      },
+      "curriculum": [
+        {
+          "de": "Hautaufbau",
+          "ar": "تشريح البشرة"
+        },
+        {
+          "de": "Verschiedene Säuren",
+          "ar": "أنواع الأحماض المختلفة"
+        },
+        {
+          "de": "pH-Wert",
+          "ar": "قيمة الـ pH وتأثيرها"
+        },
+        {
+          "de": "Indikationen und Kontraindikationen",
+          "ar": "دواعي وموانع الاستخدام"
+        },
+        {
+          "de": "Behandlung von Akne und Pigmentflecken",
+          "ar": "علاج حب الشباب والتصبغات"
+        },
+        {
+          "de": "Sicherheit und Hygiene",
+          "ar": "قواعد السلامة والنظافة"
+        },
+        {
+          "de": "Praktische Übungen",
+          "ar": "تطبيق عملي"
+        }
+      ],
+      "certificate": {
+        "de": "Zertifikat",
+        "ar": "شهادة معتمدة"
+      },
+      "audience": {
+        "de": "Für alle, die Säurepeelings professionell erlernen möchten.",
+        "ar": "لكل من يرغب بتعلم التقشير بالأحماض بشكل احترافي."
+      }
+    }
+  ],
+  "about": {
+    "title": {
+      "de": "Über uns",
+      "ar": "من نحن؟"
+    },
+    "body": {
+      "de": "Willkommen bei Karmen Kosmetik Akademie.\n\nKarmen Kosmetik wurde im Jahr 2023 gegründet und hat sich seitdem zu einem Zentrum für Kosmetik, Hautpflege und professionelle Schulungen entwickelt.\n\nWir bieten moderne kosmetische Behandlungen an und legen besonderen Wert auf Qualität, Hygiene, individuelle Beratung und die Zufriedenheit unserer Kundinnen. Das positive Feedback unserer Kundinnen und ihre langjährige Treue motivieren uns, unsere Dienstleistungen kontinuierlich weiterzuentwickeln.\n\nNeben kosmetischen Behandlungen bieten wir praxisorientierte Schulungen und Fachkosmetik-Kurse in deutscher und arabischer Sprache an. Unser Ziel ist es, Wissen und praktische Erfahrung verständlich und professionell zu vermitteln.\n\nSeit unserer Gründung haben zahlreiche Teilnehmerinnen unsere Schulungen erfolgreich abgeschlossen. Viele von ihnen konnten ihr Fachwissen erweitern, selbstständig arbeiten oder sogar ihr eigenes Kosmetikstudio eröffnen.\n\nDieser Erfolg unserer Teilnehmerinnen ist für uns ein Zeichen der Qualität unserer Schulungen und unseres praxisorientierten Ausbildungskonzeptes.\n\nWir begleiten unsere Kundinnen und Teilnehmerinnen mit Leidenschaft, Erfahrung und persönlicher Betreuung auf ihrem Weg zum Erfolg.",
+      "ar": "مرحباً بكم في أكاديمية كارمن كوزماتيك.\n\nتأسست أكاديمية كارمن كوزماتيك عام 2023، ومنذ ذلك الوقت أصبحت مركزاً متخصصاً في خدمات التجميل والعناية بالبشرة والتدريب المهني في مجال التجميل.\n\nنقدم مجموعة من الإجراءات التجميلية الحديثة مع التركيز على الجودة والتعقيم والاستشارة المهنية والاهتمام بكل عميلة بشكل فردي. كما أن رضا عملائنا وثقتهم المستمرة بخدماتنا يشكلان الدافع الأساسي لتطوير خدماتنا بشكل دائم.\n\nإلى جانب الخدمات التجميلية، نقدم دورات تدريبية عملية ودورات الفاخ كوزميتك باللغتين العربية والألمانية، حيث نحرص على نقل المعرفة والخبرة العملية بأسلوب احترافي ومبسط.\n\nومنذ تأسيس الأكاديمية تخرج العديد من الطلاب والطالبات من برامجنا التدريبية، وتمكن عدد منهم من تطوير مسيرتهم المهنية وافتتاح مراكزهم الخاصة في مجال التجميل.\n\nويعتبر نجاح طلابنا واستمرارهم في هذا المجال دليلاً على جودة التدريب العملي والمهني الذي نقدمه.\n\nنسعى دائماً إلى مرافقة عملائنا وطلابنا بخبرة وشغف واهتمام شخصي لتحقيق أفضل النتائج والنجاح المستمر."
+    },
+    "image": "/uploads/media/academy/owner.png"
+  },
+  "legalPages": [
+    {
+      "slug": "datenschutz",
+      "title": {
+        "de": "Datenschutzerklärung",
+        "ar": "سياسة الخصوصية"
+      },
+      "sections": [
+        {
+          "heading": {
+            "de": "1. Datenschutz auf einen Blick",
+            "ar": "1. لمحة عامة عن حماية البيانات"
+          },
+          "body": {
+            "de": "Der Schutz Ihrer personenbezogenen Daten ist uns wichtig. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften, insbesondere der Datenschutz-Grundverordnung (DSGVO), sowie dieser Datenschutzerklärung. Diese Datenschutzerklärung informiert Sie darüber, welche Daten beim Besuch unserer Website erhoben werden, zu welchen Zwecken sie verarbeitet werden und welche Rechte Sie haben.",
+            "ar": "إن حماية بياناتكم الشخصية أمر مهم بالنسبة لنا. نتعامل مع بياناتكم الشخصية بسرية تامة ووفقاً لقوانين حماية البيانات المعمول بها، وخاصة اللائحة الأوروبية لحماية البيانات (DSGVO)، ووفقاً لسياسة الخصوصية هذه. توضح لكم هذه السياسة البيانات التي يتم جمعها عند زيارة موقعنا الإلكتروني، والغرض من استخدامها، والحقوق التي تتمتعون بها."
+          }
+        },
+        {
+          "heading": {
+            "de": "2. Verantwortliche Stelle",
+            "ar": "2. الجهة المسؤولة عن معالجة البيانات"
+          },
+          "body": {
+            "de": "Verantwortlich für die Datenverarbeitung auf dieser Website ist:\n\nKarmen Kosmetik Akademie\nKahraman Alshwayyat\nSchillerstraße 16\n71638 Ludwigsburg\nDeutschland\nE-Mail: Kara.A85@web.de",
+            "ar": "الجهة المسؤولة عن معالجة البيانات على هذا الموقع:\n\nأكاديمية كارمن كوزماتيك\nكهرمان الشويّات\nSchillerstraße 16\n71638 Ludwigsburg\nألمانيا\nالبريد الإلكتروني: Kara.A85@web.de"
+          }
+        },
+        {
+          "heading": {
+            "de": "3. Erhebung und Speicherung personenbezogener Daten beim Besuch der Website",
+            "ar": "3. جمع وتخزين البيانات الشخصية عند زيارة الموقع"
+          },
+          "body": {
+            "de": "Beim Aufrufen unserer Website werden automatisch Informationen durch den Webserver erfasst. Dazu können gehören: IP-Adresse, Datum und Uhrzeit des Zugriffs, verwendeter Browser, Betriebssystem, besuchte Seiten, Referrer-URL. Diese Daten dienen der technischen Bereitstellung der Website, der Sicherheit und Stabilität sowie der Fehleranalyse. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO.",
+            "ar": "عند زيارة موقعنا الإلكتروني، يتم تلقائياً تسجيل بعض المعلومات التقنية بواسطة خادم الموقع، وقد تشمل: عنوان IP، تاريخ ووقت الزيارة، نوع المتصفح المستخدم، نظام التشغيل، الصفحات التي تمت زيارتها، والموقع الذي تم التحويل منه. تُستخدم هذه البيانات لأغراض تشغيل الموقع بشكل صحيح وضمان الأمان والاستقرار وتحليل الأخطاء التقنية. الأساس القانوني هو المادة 6 الفقرة 1 (و) من اللائحة الأوروبية لحماية البيانات."
+          }
+        },
+        {
+          "heading": {
+            "de": "4. Kontaktaufnahme per E-Mail oder Kontaktformular",
+            "ar": "4. التواصل عبر البريد الإلكتروني أو نموذج التواصل"
+          },
+          "body": {
+            "de": "Wenn Sie uns per E-Mail oder über ein Kontaktformular kontaktieren, werden die von Ihnen übermittelten Daten verarbeitet, zum Beispiel: Name, E-Mail-Adresse, Telefonnummer (falls angegeben), Inhalt Ihrer Nachricht. Diese Daten verwenden wir ausschließlich zur Bearbeitung Ihrer Anfrage und für mögliche Anschlussfragen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit einem Vertrag oder einer Kursbuchung zusammenhängt, ansonsten Art. 6 Abs. 1 lit. f DSGVO.",
+            "ar": "عند التواصل معنا عبر البريد الإلكتروني أو نموذج التواصل الموجود في الموقع، نقوم بمعالجة البيانات التي ترسلها إلينا، مثل: الاسم، البريد الإلكتروني، رقم الهاتف (إذا تم إدخاله)، ومحتوى الرسالة. تُستخدم هذه البيانات فقط لمعالجة استفسارك والرد عليه والتواصل معك عند الحاجة."
+          }
+        },
+        {
+          "heading": {
+            "de": "5. Kursanfragen, Terminvereinbarungen und Buchungen",
+            "ar": "5. الاستفسارات عن الدورات والمواعيد والحجوزات"
+          },
+          "body": {
+            "de": "Wenn Sie sich für Kurse, Schulungen, Behandlungen oder Termine interessieren, verarbeiten wir die von Ihnen angegebenen Daten zur Vorbereitung, Durchführung und Verwaltung der Anfrage oder Buchung. Dazu können gehören: Name, Kontaktdaten, gewünschter Kurs oder gewünschte Behandlung, Terminwunsch, Zahlungs- oder Rechnungsdaten falls erforderlich. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO.",
+            "ar": "إذا قمت بالاستفسار عن دورة تدريبية أو خدمة تجميلية أو طلبت حجز موعد، فسيتم استخدام البيانات التي تقدمها من أجل معالجة الطلب وتنظيم الموعد أو الدورة وإعداد الفواتير أو المستندات المتعلقة بالخدمة عند الحاجة. وقد تشمل البيانات: الاسم، بيانات الاتصال، الدورة أو الخدمة المطلوبة، الموعد المطلوب، وبيانات الفواتير أو الدفع عند الضرورة."
+          }
+        },
+        {
+          "heading": {
+            "de": "6. Cookies",
+            "ar": "6. ملفات تعريف الارتباط (Cookies)"
+          },
+          "body": {
+            "de": "Unsere Website kann Cookies verwenden. Cookies sind kleine Textdateien, die auf Ihrem Endgerät gespeichert werden. Technisch notwendige Cookies dienen dazu, die Website funktionsfähig bereitzustellen. Nicht notwendige Cookies, zum Beispiel für Statistik, Marketing oder externe Medien, werden nur verwendet, wenn Sie vorher eingewilligt haben. Rechtsgrundlage für notwendige Cookies ist Art. 6 Abs. 1 lit. f DSGVO. Rechtsgrundlage für einwilligungspflichtige Cookies ist Art. 6 Abs. 1 lit. a DSGVO.",
+            "ar": "قد يستخدم موقعنا ملفات تعريف الارتباط (Cookies)، وهي ملفات صغيرة تُحفظ على جهاز المستخدم لتحسين تجربة التصفح وتشغيل الموقع بشكل صحيح. تُستخدم ملفات تعريف الارتباط الضرورية لتشغيل الموقع فقط. أما ملفات تعريف الارتباط الخاصة بالإحصائيات أو التسويق أو المحتوى الخارجي، فلا يتم استخدامها إلا بعد موافقة المستخدم."
+          }
+        },
+        {
+          "heading": {
+            "de": "7. Externe Links und soziale Medien",
+            "ar": "7. الروابط الخارجية ووسائل التواصل الاجتماعي"
+          },
+          "body": {
+            "de": "Unsere Website kann Links zu externen Plattformen enthalten, zum Beispiel Instagram, TikTok, Facebook, WhatsApp oder andere Anbieter. Wenn Sie diese Links anklicken, verlassen Sie unsere Website. Für die Datenverarbeitung auf den externen Plattformen ist der jeweilige Anbieter verantwortlich.",
+            "ar": "قد يحتوي موقعنا على روابط لمواقع أو منصات خارجية مثل إنستغرام وتيك توك وفيسبوك وواتساب أو غيرها من المنصات. عند الضغط على هذه الروابط تغادر موقعنا الإلكتروني، وتصبح المنصة الخارجية مسؤولة عن معالجة بياناتك وفقاً لسياسة الخصوصية الخاصة بها."
+          }
+        },
+        {
+          "heading": {
+            "de": "8. WhatsApp-Kontakt",
+            "ar": "8. التواصل عبر واتساب"
+          },
+          "body": {
+            "de": "Falls Sie uns über WhatsApp kontaktieren, werden die von Ihnen übermittelten Daten zur Bearbeitung Ihrer Anfrage verarbeitet. Bitte beachten Sie, dass WhatsApp ein externer Dienst ist und eigene Datenschutzbestimmungen gelten. Die Nutzung von WhatsApp erfolgt freiwillig.",
+            "ar": "إذا قمت بالتواصل معنا عبر تطبيق واتساب، فسيتم استخدام البيانات التي ترسلها لمعالجة استفسارك والرد عليك. يرجى ملاحظة أن واتساب خدمة مستقلة لها سياسة خصوصية خاصة بها، واستخدام التطبيق يتم بشكل طوعي من قبل المستخدم."
+          }
+        },
+        {
+          "heading": {
+            "de": "9. SSL- bzw. TLS-Verschlüsselung",
+            "ar": "9. تشفير SSL / TLS"
+          },
+          "body": {
+            "de": "Diese Website nutzt aus Sicherheitsgründen eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers mit „https://“ beginnt und ein Schloss-Symbol angezeigt wird. Dadurch können Daten, die Sie an uns übermitteln, nicht ohne Weiteres von Dritten mitgelesen werden.",
+            "ar": "يستخدم هذا الموقع تشفير SSL أو TLS لحماية البيانات أثناء نقلها عبر الإنترنت. يمكنك معرفة أن الاتصال آمن عندما يبدأ عنوان الموقع بـ https:// ويظهر رمز القفل في شريط المتصفح. يساعد هذا التشفير على حماية البيانات المرسلة من الاطلاع غير المصرح به من قبل أطراف أخرى."
+          }
+        },
+        {
+          "heading": {
+            "de": "10. Speicherdauer",
+            "ar": "10. مدة الاحتفاظ بالبيانات"
+          },
+          "body": {
+            "de": "Wir speichern personenbezogene Daten nur so lange, wie es für den jeweiligen Zweck erforderlich ist oder gesetzliche Aufbewahrungsfristen bestehen. Daten aus Anfragen werden gelöscht, wenn die Bearbeitung abgeschlossen ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.",
+            "ar": "نحتفظ بالبيانات الشخصية فقط للمدة اللازمة لتحقيق الغرض الذي جُمعت من أجله أو للمدة التي يفرضها القانون. يتم حذف بيانات الاستفسارات بعد الانتهاء من معالجتها ما لم توجد متطلبات قانونية تلزم بالاحتفاظ بها لفترة أطول."
+          }
+        },
+        {
+          "heading": {
+            "de": "11. Weitergabe von Daten",
+            "ar": "11. مشاركة البيانات مع أطراف أخرى"
+          },
+          "body": {
+            "de": "Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt nur, wenn dies zur Durchführung unserer Leistungen erforderlich ist, Sie eingewilligt haben oder eine gesetzliche Verpflichtung besteht.",
+            "ar": "لا يتم نقل أو مشاركة بياناتك الشخصية مع أي طرف ثالث إلا إذا كان ذلك ضرورياً لتقديم الخدمة المطلوبة، أو إذا وافقت على ذلك صراحةً، أو إذا كان القانون يلزمنا بذلك."
+          }
+        },
+        {
+          "heading": {
+            "de": "12. Ihre Rechte",
+            "ar": "12. حقوقك المتعلقة بحماية البيانات"
+          },
+          "body": {
+            "de": "Sie haben nach der DSGVO folgende Rechte: Recht auf Auskunft, Recht auf Berichtigung, Recht auf Löschung, Recht auf Einschränkung der Verarbeitung, Recht auf Datenübertragbarkeit, Recht auf Widerspruch, Recht auf Widerruf einer erteilten Einwilligung.",
+            "ar": "وفقاً للائحة الأوروبية لحماية البيانات، يحق لك: الحصول على معلومات حول البيانات المخزنة عنك، تصحيح البيانات غير الصحيحة، طلب حذف البيانات، تقييد معالجة البيانات، الحصول على نسخة من بياناتك، الاعتراض على معالجة البيانات، وسحب أي موافقة منحتها سابقاً في أي وقت."
+          }
+        },
+        {
+          "heading": {
+            "de": "13. Beschwerderecht bei der Aufsichtsbehörde",
+            "ar": "13. حق تقديم شكوى"
+          },
+          "body": {
+            "de": "Sie haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzrecht verstößt.",
+            "ar": "إذا كنت تعتقد أن معالجة بياناتك الشخصية تتم بطريقة مخالفة للقانون، فيحق لك تقديم شكوى إلى هيئة حماية البيانات المختصة في ألمانيا."
+          }
+        },
+        {
+          "heading": {
+            "de": "14. Aktualität dieser Datenschutzerklärung",
+            "ar": "14. تحديث سياسة الخصوصية"
+          },
+          "body": {
+            "de": "Diese Datenschutzerklärung ist aktuell gültig. Wir behalten uns vor, diese Datenschutzerklärung anzupassen, wenn sich unsere Website, unsere Leistungen oder gesetzliche Vorgaben ändern. Stand: Juni 2026",
+            "ar": "قد يتم تعديل سياسة الخصوصية هذه عند إجراء تغييرات على الموقع الإلكتروني أو الخدمات المقدمة أو عند صدور متطلبات قانونية جديدة. آخر تحديث: يونيو 2026"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "agb",
+      "title": {
+        "de": "AGB – Allgemeine Geschäftsbedingungen",
+        "ar": "الشروط والأحكام العامة"
+      },
+      "sections": [
+        {
+          "heading": {
+            "de": "§ 1 Geltungsbereich",
+            "ar": "§ 1 نطاق التطبيق"
+          },
+          "body": {
+            "de": "Diese Allgemeinen Geschäftsbedingungen gelten für sämtliche Schulungen, Kurse, Seminare, Workshops sowie kosmetische Dienstleistungen der Karmen Kosmetik Akademie. Mit der Anmeldung zu einem Kurs oder der Buchung einer Dienstleistung erkennt der Kunde diese AGB an.",
+            "ar": "تسري هذه الشروط والأحكام على جميع الدورات التدريبية وورش العمل والندوات والخدمات التجميلية المقدمة من أكاديمية كارمن كوزماتيك. عند التسجيل في أي دورة أو حجز أي خدمة، يوافق العميل على هذه الشروط والأحكام."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 2 Anmeldung und Vertragsabschluss",
+            "ar": "§ 2 التسجيل وإبرام العقد"
+          },
+          "body": {
+            "de": "Die Anmeldung zu Schulungen oder Behandlungen kann schriftlich, telefonisch, per E-Mail, WhatsApp oder über die Website erfolgen. Ein Vertrag kommt erst mit der Bestätigung durch die Karmen Kosmetik Akademie zustande.",
+            "ar": "يمكن التسجيل في الدورات أو الخدمات كتابياً أو عبر الهاتف أو البريد الإلكتروني أو الواتساب أو من خلال الموقع الإلكتروني. يصبح التسجيل ملزماً فقط بعد تأكيده من قبل أكاديمية كارمن كوزماتيك."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 3 Zahlungsbedingungen",
+            "ar": "§ 3 شروط الدفع"
+          },
+          "body": {
+            "de": "Die Kursgebühren und Behandlungskosten sind gemäß der vereinbarten Zahlungsweise zu entrichten. Ratenzahlungen sind nur nach vorheriger schriftlicher Vereinbarung möglich. Bei Zahlungsverzug behält sich die Akademie das Recht vor, Teilnehmer vom Unterricht auszuschließen oder Zertifikate bis zur vollständigen Zahlung zurückzuhalten. Im Falle einer vereinbarten Ratenzahlung bleibt die volle Kursgebühr auch dann geschuldet, wenn die Teilnehmerin vor Kursende zurücktritt.",
+            "ar": "يجب دفع رسوم الدورات أو الخدمات وفقاً للطريقة المتفق عليها. يُسمح بالدفع بالأقساط فقط إذا تم الاتفاق عليه مسبقاً بشكل واضح. في حال التأخر عن الدفع، يحق للأكاديمية إيقاف مشاركة المتدربة في الدورة أو حجب الشهادة إلى حين سداد كامل الرسوم. في حال الاتفاق على الدفع بالأقساط، تبقى الرسوم الكاملة للدورة مستحقة حتى لو انسحبت المتدربة قبل انتهاء الدورة."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 4 Stornierung durch Teilnehmer",
+            "ar": "§ 4 إلغاء الدورة من قبل المتدربة"
+          },
+          "body": {
+            "de": "Eine Stornierung muss schriftlich erfolgen. Bei einer Stornierung: bis 30 Tage vor Kursbeginn kostenlos; 14 bis 29 Tage vor Kursbeginn 50 % der Kursgebühr; weniger als 14 Tage vor Kursbeginn 100 % der Kursgebühr. Bereits begonnene Kurse können nicht rückerstattet werden.",
+            "ar": "يجب تقديم طلب الإلغاء كتابياً. في حالة الإلغاء: قبل 30 يوماً أو أكثر من بدء الدورة مجاناً؛ بين 14 و29 يوماً قبل بدء الدورة يتم دفع 50٪ من رسوم الدورة؛ أقل من 14 يوماً قبل بدء الدورة يتم دفع 100٪ من رسوم الدورة. بعد بدء الدورة لا يحق المطالبة باسترداد الرسوم."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 5 Terminabsagen bei Behandlungen",
+            "ar": "§ 5 إلغاء مواعيد الخدمات التجميلية"
+          },
+          "body": {
+            "de": "Vereinbarte Behandlungstermine müssen mindestens 24 Stunden vorher abgesagt werden. Bei kurzfristiger Absage oder Nichterscheinen kann eine Ausfallgebühr berechnet werden.",
+            "ar": "يجب إلغاء الموعد قبل 24 ساعة على الأقل. في حالة الإلغاء المتأخر أو عدم الحضور، يحق للأكاديمية فرض رسوم تعويض عن الموعد المحجوز."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 6 Teilnahme an Schulungen",
+            "ar": "§ 6 المشاركة في الدورات"
+          },
+          "body": {
+            "de": "Die Teilnehmer verpflichten sich zur Einhaltung der Hygiene-, Sicherheits- und Hausordnungsvorschriften. Die Akademie behält sich vor, Teilnehmer bei grobem Fehlverhalten vom Unterricht auszuschließen. Eine Rückerstattung erfolgt in diesem Fall nicht.",
+            "ar": "يلتزم جميع المشاركين بقواعد النظافة والسلامة والتعليمات الداخلية للأكاديمية. تحتفظ الأكاديمية بحق استبعاد أي متدربة تتصرف بشكل غير لائق أو يخل بسير الدورة. في هذه الحالة لا يتم استرداد أي رسوم."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 7 Zertifikate",
+            "ar": "§ 7 الشهادات"
+          },
+          "body": {
+            "de": "Teilnahmebescheinigungen oder Zertifikate werden nach erfolgreicher Teilnahme und vollständiger Bezahlung ausgestellt. Die Ausstellung eines Zertifikats begründet keine staatliche Anerkennung, sofern dies nicht ausdrücklich angegeben wird.",
+            "ar": "يتم إصدار شهادة مشاركة أو شهادة إتمام بعد حضور الدورة بنجاح وسداد جميع الرسوم المستحقة. الحصول على الشهادة لا يعني وجود اعتراف حكومي أو رسمي إلا إذا تم ذكر ذلك صراحةً."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 8 Haftung",
+            "ar": "§ 8 المسؤولية"
+          },
+          "body": {
+            "de": "Die Teilnahme an Schulungen und kosmetischen Behandlungen erfolgt auf eigene Verantwortung. Die Karmen Kosmetik Akademie haftet nur für Schäden, die auf vorsätzlichem oder grob fahrlässigem Verhalten beruhen.",
+            "ar": "تتم المشاركة في الدورات والخدمات التجميلية على مسؤولية العميل الشخصية. تتحمل الأكاديمية المسؤولية فقط في حال وجود خطأ متعمد أو إهمال جسيم من جانبها."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 9 Änderungen von Terminen",
+            "ar": "§ 9 تغيير المواعيد"
+          },
+          "body": {
+            "de": "Die Akademie behält sich vor, Kurstermine aus organisatorischen Gründen, Krankheit oder höherer Gewalt zu verschieben. Bereits geleistete Zahlungen bleiben für den Ersatztermin gültig.",
+            "ar": "يحق للأكاديمية تغيير مواعيد الدورات أو تأجيلها بسبب ظروف تنظيمية أو المرض أو القوة القاهرة. وفي هذه الحالة تبقى المبالغ المدفوعة صالحة للموعد البديل."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 10 Datenschutz",
+            "ar": "§ 10 حماية البيانات"
+          },
+          "body": {
+            "de": "Die Verarbeitung personenbezogener Daten erfolgt gemäß der Datenschutzerklärung der Karmen Kosmetik Akademie.",
+            "ar": "يتم التعامل مع البيانات الشخصية وفقاً لسياسة الخصوصية الخاصة بأكاديمية كارمن كوزماتيك."
+          }
+        },
+        {
+          "heading": {
+            "de": "§ 11 Schlussbestimmungen",
+            "ar": "§ 11 أحكام ختامية"
+          },
+          "body": {
+            "de": "Es gilt das Recht der Bundesrepublik Deutschland. Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. Gerichtsstand ist – soweit gesetzlich zulässig – Ludwigsburg. Stand: Juni 2026",
+            "ar": "يطبق القانون الألماني على جميع العلاقات التعاقدية. إذا أصبح أحد البنود غير صالح قانونياً، تبقى بقية البنود سارية المفعول. المحكمة المختصة قانونياً هي محكمة لودفيغسبورغ بالقدر الذي يسمح به القانون. آخر تحديث: يونيو 2026"
+          }
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "order": 1,
+      "question": {
+        "de": "In welchen Sprachen werden die Schulungen angeboten?",
+        "ar": "بأي اللغات تُقدَّم الدورات التدريبية؟"
+      },
+      "answer": {
+        "de": "Unsere Schulungen werden in deutscher und arabischer Sprache angeboten, damit alle Teilnehmerinnen die theoretischen und praktischen Inhalte optimal verstehen.",
+        "ar": "تُقدَّم دوراتنا باللغتين الألمانية والعربية لمساعدة جميع المتدربات على فهم المحتوى النظري والعملي بسهولة."
+      }
+    },
+    {
+      "order": 2,
+      "question": {
+        "de": "Erhalte ich nach dem Kurs ein Zertifikat?",
+        "ar": "هل أحصل على شهادة بعد انتهاء الدورة؟"
+      },
+      "answer": {
+        "de": "Ja. Nach erfolgreicher Teilnahme und vollständiger Bezahlung erhalten Sie ein Zertifikat mit Akademiestempel. Für bestimmte Kurse erhalten Sie zusätzlich eine BFD-anerkannte Bescheinigung.",
+        "ar": "نعم. بعد إتمام الدورة بنجاح وسداد الرسوم تحصلين على شهادة مختومة بختم الأكاديمية، وفي دورات محددة شهادة إضافية معتمدة من BFD."
+      }
+    },
+    {
+      "order": 3,
+      "question": {
+        "de": "Wie kann ich mich für einen Kurs anmelden?",
+        "ar": "كيف يمكنني التسجيل في دورة؟"
+      },
+      "answer": {
+        "de": "Die Anmeldung kann schriftlich, telefonisch, per E-Mail, WhatsApp oder über die Website erfolgen. Ein Vertrag kommt erst mit unserer Bestätigung zustande.",
+        "ar": "يمكن التسجيل كتابياً أو عبر الهاتف أو البريد الإلكتروني أو الواتساب أو من خلال الموقع الإلكتروني. يصبح التسجيل ملزماً بعد تأكيده من قبل الأكاديمية."
+      }
+    },
+    {
+      "order": 4,
+      "question": {
+        "de": "Muss ich eigene Modelle mitbringen?",
+        "ar": "هل يجب أن أحضر موديلات خاصة بي؟"
+      },
+      "answer": {
+        "de": "Bei der Permanent Make-Up Ausbildung können Sie eigene Modelle mitbringen – ohne Modellgebühr. Praktische Übungen finden immer unter fachlicher Anleitung statt.",
+        "ar": "في دورة المكياج الدائم يمكنك إحضار الموديلات الخاصة بك دون أي رسوم إضافية، ويتم التدريب العملي دائماً تحت إشراف المدربة."
+      }
+    },
+    {
+      "order": 5,
+      "question": {
+        "de": "Kann ich einen gebuchten Kurs stornieren?",
+        "ar": "هل يمكنني إلغاء دورة قمت بحجزها؟"
+      },
+      "answer": {
+        "de": "Ja, eine Stornierung muss schriftlich erfolgen: bis 30 Tage vor Kursbeginn kostenlos, 14–29 Tage vorher 50 % der Gebühr, weniger als 14 Tage vorher 100 %. Details finden Sie in unseren AGB.",
+        "ar": "نعم، يجب تقديم طلب الإلغاء كتابياً: قبل 30 يوماً من بدء الدورة مجاناً، بين 14 و29 يوماً 50٪ من الرسوم، وأقل من 14 يوماً 100٪. التفاصيل في الشروط والأحكام."
+      }
+    },
+    {
+      "order": 6,
+      "question": {
+        "de": "Wie sage ich einen Behandlungstermin ab?",
+        "ar": "كيف ألغي موعد جلسة تجميلية؟"
+      },
+      "answer": {
+        "de": "Behandlungstermine müssen mindestens 24 Stunden vorher abgesagt werden. Bei kurzfristiger Absage oder Nichterscheinen kann eine Ausfallgebühr berechnet werden.",
+        "ar": "يجب إلغاء موعد الجلسة قبل 24 ساعة على الأقل. في حال الإلغاء المتأخر أو عدم الحضور قد تُفرض رسوم تعويض."
+      }
+    },
+    {
+      "order": 7,
+      "question": {
+        "de": "Ist Ratenzahlung möglich?",
+        "ar": "هل يمكن الدفع بالأقساط؟"
+      },
+      "answer": {
+        "de": "Ratenzahlungen sind nach vorheriger schriftlicher Vereinbarung möglich. Bei vereinbarter Ratenzahlung bleibt die volle Kursgebühr geschuldet, auch wenn der Kurs vorzeitig abgebrochen wird.",
+        "ar": "الدفع بالأقساط ممكن بعد اتفاق كتابي مسبق. وفي هذه الحالة تبقى الرسوم الكاملة للدورة مستحقة حتى لو انسحبت المتدربة قبل انتهاء الدورة."
+      }
+    },
+    {
+      "order": 8,
+      "question": {
+        "de": "Wo befindet sich die Akademie?",
+        "ar": "أين تقع الأكاديمية؟"
+      },
+      "answer": {
+        "de": "Sie finden uns in der Schillerstraße 16, 71638 Ludwigsburg. Kontaktieren Sie uns gerne per WhatsApp oder E-Mail.",
+        "ar": "تجدوننا في Schillerstraße 16, 71638 Ludwigsburg بألمانيا. يمكنكم التواصل معنا عبر الواتساب أو البريد الإلكتروني."
+      }
+    }
+  ],
+  "navigation": {
+    "quickMenu": [
+      {
+        "key": "treatments",
+        "label": {
+          "de": "Behandlungen",
+          "ar": "المعالجات"
+        },
+        "href": "/behandlungen"
+      },
+      {
+        "key": "courses",
+        "label": {
+          "de": "Fortbildungskurse in Fachkosmetik",
+          "ar": "دورات التجميل اللاجراحي"
+        },
+        "href": "/kurse"
+      },
+      {
+        "key": "future-slot-1",
+        "label": {
+          "de": "",
+          "ar": ""
+        },
+        "href": "",
+        "hidden": true
+      },
+      {
+        "key": "future-slot-2",
+        "label": {
+          "de": "",
+          "ar": ""
+        },
+        "href": "",
+        "hidden": true
+      }
+    ],
+    "legalMenu": [
+      {
+        "key": "about",
+        "label": {
+          "de": "Über uns",
+          "ar": "من نحن"
+        },
+        "href": "/ueber-uns"
+      },
+      {
+        "key": "privacy",
+        "label": {
+          "de": "Datenschutzerklärung",
+          "ar": "حماية البيانات"
+        },
+        "href": "/datenschutz"
+      },
+      {
+        "key": "terms",
+        "label": {
+          "de": "AGB",
+          "ar": "الشروط والأحكام العامة"
+        },
+        "href": "/agb"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "slug": "academy",
+      "title": {
+        "de": "Unsere Akademie",
+        "ar": "أكاديميتنا"
+      },
+      "images": [
+        {
+          "src": "/uploads/media/academy/classroom-1.png",
+          "alt": {
+            "de": "Schulungsraum der Karmen Kosmetik Akademie",
+            "ar": "قاعة التدريب في أكاديمية كارمن كوزماتيك"
+          }
+        },
+        {
+          "src": "/uploads/media/academy/classroom-2.png",
+          "alt": {
+            "de": "Praxisorientierte Schulung in kleinen Gruppen",
+            "ar": "تدريب عملي ضمن مجموعات صغيرة"
+          }
+        },
+        {
+          "src": "/uploads/media/academy/classroom-3.png",
+          "alt": {
+            "de": "Theorie und Praxis in der Akademie",
+            "ar": "الجانب النظري والعملي في الأكاديمية"
+          }
+        }
+      ]
+    }
+  ]
+}
